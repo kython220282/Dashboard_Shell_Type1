@@ -6,4 +6,4 @@ __pycache__/
 *.pyc
 
 # Ignore other unnecessary files
-.DS_Store
+.DS_Storevenv/
